@@ -1,0 +1,6 @@
+{
+  "name": "Plerouse — Smarter Modern Banking",
+  "description": "Spend, save, transfer, and track your money with clarity — all from one secure digital account.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
